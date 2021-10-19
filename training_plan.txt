@@ -1,0 +1,114 @@
+Welcome to your marathon training plan!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Week: 1, vo2max: 51 mls/kg/min
+
+	Monday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Tuesday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Wednesday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Thursday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Friday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Saturday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Sunday – rest day
+
+Week: 2, vo2max: 51 mls/kg/min
+
+	Monday – run for 13-16 miles between: 0:07:48 and 0:09:18 min/mile
+	Tuesday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Wednesday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Thursday – speed work:
+-2 miles between: 0:07:48 and 0:09:18
+-3 x 1 mile at: 0:06:42 with 1 minute rests
+-3 x 3 minutes at: 0:06:06 followed by 2 minutes at: 0:09:18
+-4 x 200 meters at: 0:05:48 followed by 200 meters at: 0:09:18
+ -1 mile between: 0:07:48 and 0:09:18
+	Friday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Saturday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Sunday – rest day
+
+Week: 3, vo2max: 51 mls/kg/min
+
+	Monday – tempo: 4 miles at: 0:07:48 followed by 7 miles at: 0:07:00
+	Tuesday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Wednesday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Thursday – cruise interval: 
+-2 miles at: 0:07:48
+-5 miles at: 0:07:00
+-1 mile at: 0:07:48
+-4 miles at: 0:07:00
+-2 miles at: 0:07:48
+	Friday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Saturday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Sunday – rest day
+
+Week: 4, vo2max: 51 mls/kg/min
+
+	Monday – speed work:
+-2 miles between: 0:07:48 and 0:09:18
+-5 x 1 mile at: 0:06:42 with 1 minute rests
+-2 miles between: 0:07:48 and 0:09:18
+	Tuesday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Wednesday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Thursday – speed work:
+-2 miles between: 0:07:48 and 0:09:18
+-5 x 1 mile at: 0:06:42 with 1 minute rests
+-4 x 400 meters at: 0:05:48 followed by 400 meters at: 0:09:18
+ -1 mile between: 0:07:48 and 0:09:18
+	Friday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Saturday – run for 40-60 minutes between: 0:07:48 and 0:09:18 min/mile
+	Sunday – rest day
+
+Week: 5, vo2max: 52 mls/kg/min
+
+	Monday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Tuesday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Wednesday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Thursday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Friday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Saturday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Sunday – rest day
+
+Week: 6, vo2max: 52 mls/kg/min
+
+	Monday – run for 13-16 miles between: 0:07:36 and 0:09:06 min/mile
+	Tuesday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Wednesday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Thursday – speed work:
+-2 miles between: 0:07:36 and 0:09:06
+-3 x 1 mile at: 0:06:36 with 1 minute rests
+-3 x 3 minutes at: 0:06:00 followed by 2 minutes at: 0:09:06
+-4 x 200 meters at: 0:05:42 followed by 200 meters at: 0:09:06
+ -1 mile between: 0:07:36 and 0:09:06
+	Friday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Saturday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Sunday – rest day
+
+Week: 7, vo2max: 52 mls/kg/min
+
+	Monday – tempo: 4 miles at: 0:07:36 followed by 7 miles at: 0:06:54
+	Tuesday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Wednesday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Thursday – cruise interval: 
+-2 miles at: 0:07:36
+-5 miles at: 0:06:54
+-1 mile at: 0:07:36
+-4 miles at: 0:06:54
+-2 miles at: 0:07:36
+	Friday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Saturday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Sunday – rest day
+
+Last week of training, vo2max: 52 mls/kg/min
+
+	Monday – rest day
+	Tuesday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Wednesday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Thursday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Friday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+	Saturday – rest day
+	Sunday – run for 40-60 minutes between: 0:07:36 and 0:09:06 min/mile
+
+
+ Good luck on race day!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Marathon Auto-Plan</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+ </head>
+ <body>
+  <header>
+   <p1 style="font-size:30px; color:#000000; font-weight:bold; font-style:normal;">Marathon Auto-Plan</p1><br>
+   <p2 style="font-size:14px; color:#000000; font-weight:normal; font-style:italic;">Input most recent race time below:</p2>
+  </header><br><br>
+  <form method="POST" action="/response">
+    Distance: <input type="text" name="dist" size="10" required>
+    <select name="unit" id="unit">
+    <option value="mile">Miles</option>
+    <option value="kilometer">Kilometers</option>
+   </select><br><br>
+   Time (hh:mm:ss): <input type="text" name="hrs" size="4" required>
+   : <input type="text" name="mins" size="4" required>
+   : <input type="text" name="secs" size="4" required><br><br>
+   Weeks until next race: <input type="text" name="weeks" size="11" required><br><br>
+   <input type="submit" value="Submit"><br><br>
+  </form>
+  <form method="POST" action="/strava">
+   <p3 style="font-size:14px; color:#000000; font-weight:normal; font-style:italic;">–or–</p3><br><br>
+   <input type="submit" value="Use Strava to Analyze Data" style="border:none; color:black; font-size:14px; font-weight:bold; font-style:normal; background-color:white; text-decoration: underline;">
+   <!--<a href="https://www.strava.com/oauth/ authorize?client_id=66642&redirect_uri=http%3A%2F%2F127.0.0.1%3A8080%2Fstrava&approval_prompt=auto&response_type=code&scope=activity%3Aread_all"style="font-size:14px; color:#000000; font-weight:bold; font-style:normal;">Use Strava to Analyze Data</a><br><br><br>-->
+  </form>
+  {% if content %}
+  <pre><div style="text-align:center"><span class="inner-pre" style="font-size: 14px">
+   {{content}}
+  </span></div></pre>
+  {% endif %}
+ </body>
+</html>
