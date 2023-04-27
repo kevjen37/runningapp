@@ -21,9 +21,9 @@ def Strava_Vo2():
 	athlete_name = 'kevin'#input('\nAthlete Name: ')
 
 	athlete_dict = {
-		'kevin' : '0a82bd99ab00773609241974c7126e7ff2c9849f',
-		'vicki' : '153c93800096f1d3c6055a3347d8ae23e846be40',
-		'brandon' : '61f855ab1e672e12e26ef6614f246c1dde4de27e'
+		'kevin' : '1', #fake API token
+		'vicki' : '2', #fake API token
+		'brandon' : '3' #fake API token
 	}
 
 	athlete_token = athlete_dict[athlete_name]
